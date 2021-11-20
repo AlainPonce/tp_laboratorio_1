@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1625665659 source:c:\users\alain\desktop\tp_4_codeblocks\testing\utest.c
+	"utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1625665659 c:\users\alain\desktop\tp_4_codeblocks\testing\utest.h
+
+1625665659 source:c:\users\alain\desktop\tp_4_codeblocks\src\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../inc/LinkedList.h"
+
+1625665659 c:\users\alain\desktop\tp_4_codeblocks\inc\linkedlist.h
+
+1637424760 source:c:\users\alain\desktop\tp_4_codeblocks\src\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../testing/inc/main_test.h"
+	"../inc/LinkedList.h"
+
+1625665659 c:\users\alain\desktop\tp_4_codeblocks\testing\inc\main_test.h
+
